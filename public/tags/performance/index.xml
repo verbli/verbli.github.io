@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Performance on Verbli</title>
-    <link>http://localhost:1313/tags/performance/</link>
+    <link>https://verbli.org/tags/performance/</link>
     <description>Recent content in Performance on Verbli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 14 Feb 2025 14:41:15 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/performance/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://verbli.org/tags/performance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Optimizing Hugo Performance: Speed Up Your Site</title>
-      <link>http://localhost:1313/blog/optimizing-hugo-performance/</link>
+      <link>https://verbli.org/blog/optimizing-hugo-performance/</link>
       <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/optimizing-hugo-performance/</guid>
+      <guid>https://verbli.org/blog/optimizing-hugo-performance/</guid>
       <description>Table of Contents Introduction Asset Optimization Image Optimization CSS and JavaScript Caching Strategies Content Delivery CDN Setup Edge Computing Performance Monitoring Key Metrics Advanced Optimization Techniques Resource Hints Critical CSS SEO Optimization Conclusion Resources Introduction Performance is crucial for user experience and SEO. In this guide, we&amp;rsquo;ll explore various techniques to optimize your Hugo site for maximum performance.&#xA;Asset Optimization Image Optimization Images often contribute the most to page weight.</description>
     </item>
   </channel>

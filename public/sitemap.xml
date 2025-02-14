@@ -2,137 +2,137 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/jobs/</loc>
+    <loc>https://verbli.org/jobs/</loc>
     <lastmod>2025-02-14T14:41:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/jobs/product-manager/</loc>
+    <loc>https://verbli.org/jobs/product-manager/</loc>
     <lastmod>2025-02-14T14:41:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/jobs/senior-frontend-developer/</loc>
+    <loc>https://verbli.org/jobs/senior-frontend-developer/</loc>
     <lastmod>2025-02-14T14:41:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://verbli.org/blog/</loc>
     <lastmod>2025-02-14T14:41:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://verbli.org/categories/</loc>
     <lastmod>2025-02-14T14:41:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/content/</loc>
+    <loc>https://verbli.org/categories/content/</loc>
     <lastmod>2025-02-14T14:41:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/content-management-hugo/</loc>
+    <loc>https://verbli.org/blog/content-management-hugo/</loc>
     <lastmod>2025-02-14T14:41:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/content-management/</loc>
+    <loc>https://verbli.org/tags/content-management/</loc>
     <lastmod>2025-02-14T14:41:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
+    <loc>https://verbli.org/tags/hugo/</loc>
     <lastmod>2025-02-14T14:41:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/organization/</loc>
+    <loc>https://verbli.org/tags/organization/</loc>
     <lastmod>2025-02-14T14:41:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://verbli.org/tags/</loc>
     <lastmod>2025-02-14T14:41:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/workflow/</loc>
+    <loc>https://verbli.org/tags/workflow/</loc>
     <lastmod>2025-02-14T14:41:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/optimization/</loc>
+    <loc>https://verbli.org/tags/optimization/</loc>
     <lastmod>2025-02-14T14:41:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/optimizing-hugo-performance/</loc>
+    <loc>https://verbli.org/blog/optimizing-hugo-performance/</loc>
     <lastmod>2025-02-14T14:41:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/performance/</loc>
+    <loc>https://verbli.org/tags/performance/</loc>
     <lastmod>2025-02-14T14:41:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/performance/</loc>
+    <loc>https://verbli.org/categories/performance/</loc>
     <lastmod>2025-02-14T14:41:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/seo/</loc>
+    <loc>https://verbli.org/tags/seo/</loc>
     <lastmod>2025-02-14T14:41:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/deploying-hugo-sites/</loc>
+    <loc>https://verbli.org/blog/deploying-hugo-sites/</loc>
     <lastmod>2025-02-14T14:41:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/deployment/</loc>
+    <loc>https://verbli.org/tags/deployment/</loc>
     <lastmod>2025-02-14T14:41:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/deployment/</loc>
+    <loc>https://verbli.org/categories/deployment/</loc>
     <lastmod>2025-02-14T14:41:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/github-pages/</loc>
+    <loc>https://verbli.org/tags/github-pages/</loc>
     <lastmod>2025-02-14T14:41:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/netlify/</loc>
+    <loc>https://verbli.org/tags/netlify/</loc>
     <lastmod>2025-02-14T14:41:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/vercel/</loc>
+    <loc>https://verbli.org/tags/vercel/</loc>
     <lastmod>2025-02-14T14:41:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/customization/</loc>
+    <loc>https://verbli.org/tags/customization/</loc>
     <lastmod>2025-02-14T14:41:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/customizing-your-hugo-theme/</loc>
+    <loc>https://verbli.org/blog/customizing-your-hugo-theme/</loc>
     <lastmod>2025-02-14T14:41:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/development/</loc>
+    <loc>https://verbli.org/categories/development/</loc>
     <lastmod>2025-02-14T14:41:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/themes/</loc>
+    <loc>https://verbli.org/tags/themes/</loc>
     <lastmod>2025-02-14T14:41:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/web-design/</loc>
+    <loc>https://verbli.org/tags/web-design/</loc>
     <lastmod>2025-02-14T14:41:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/beginners/</loc>
+    <loc>https://verbli.org/tags/beginners/</loc>
     <lastmod>2025-02-14T14:41:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/getting-started-with-hugo/</loc>
+    <loc>https://verbli.org/blog/getting-started-with-hugo/</loc>
     <lastmod>2025-02-14T14:41:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/static-site/</loc>
+    <loc>https://verbli.org/tags/static-site/</loc>
     <lastmod>2025-02-14T14:41:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/tutorials/</loc>
+    <loc>https://verbli.org/categories/tutorials/</loc>
     <lastmod>2025-02-14T14:41:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/web-development/</loc>
+    <loc>https://verbli.org/tags/web-development/</loc>
     <lastmod>2025-02-14T14:41:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/6/</loc>
+    <loc>https://verbli.org/6/</loc>
   </url><url>
-    <loc>http://localhost:1313/company/</loc>
+    <loc>https://verbli.org/company/</loc>
     <lastmod>2025-02-14T14:41:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/features/design-system/</loc>
+    <loc>https://verbli.org/features/design-system/</loc>
     <lastmod>2025-02-14T14:41:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/features/developer-experience/</loc>
+    <loc>https://verbli.org/features/developer-experience/</loc>
     <lastmod>2025-02-14T14:41:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/features/</loc>
+    <loc>https://verbli.org/features/</loc>
     <lastmod>2025-02-14T14:41:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://verbli.org/</loc>
+    <lastmod>2025-02-14T15:55:13-05:00</lastmod>
+  </url><url>
+    <loc>https://verbli.org/careers/</loc>
     <lastmod>2025-02-14T14:41:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/careers/</loc>
+    <loc>https://verbli.org/license/</loc>
     <lastmod>2025-02-14T14:41:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/license/</loc>
+    <loc>https://verbli.org/features/performance/</loc>
     <lastmod>2025-02-14T14:41:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/features/performance/</loc>
+    <loc>https://verbli.org/page/</loc>
+  </url><url>
+    <loc>https://verbli.org/pricing/</loc>
     <lastmod>2025-02-14T14:41:15-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/</loc>
-  </url><url>
-    <loc>http://localhost:1313/pricing/</loc>
-    <lastmod>2025-02-14T14:41:15-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/privacy/</loc>
+    <loc>https://verbli.org/privacy/</loc>
     <lastmod>2025-02-14T14:41:15-05:00</lastmod>
   </url>
 </urlset>

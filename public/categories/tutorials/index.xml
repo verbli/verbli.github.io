@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tutorials on Verbli</title>
-    <link>http://localhost:1313/categories/tutorials/</link>
+    <link>https://verbli.org/categories/tutorials/</link>
     <description>Recent content in Tutorials on Verbli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 14 Feb 2025 14:41:15 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://verbli.org/categories/tutorials/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting Started with Hugo: A Beginner&#39;s Guide</title>
-      <link>http://localhost:1313/blog/getting-started-with-hugo/</link>
+      <link>https://verbli.org/blog/getting-started-with-hugo/</link>
       <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/getting-started-with-hugo/</guid>
+      <guid>https://verbli.org/blog/getting-started-with-hugo/</guid>
       <description>Table of Contents Introduction Why Choose Hugo? Setting Up Your First Hugo Site Working with Content Advanced Features Code Examples Conclusion Next Steps Introduction Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.&#xA;Why Choose Hugo? Here are some compelling reasons to choose Hugo for your next project:&#xA;Lightning Fast Easy to Learn Highly Flexible Great Community Setting Up Your First Hugo Site Let&amp;rsquo;s walk through creating your first Hugo site:</description>
     </item>
   </channel>

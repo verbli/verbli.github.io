@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Verbli</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://verbli.org/categories/</link>
     <description>Recent content in Categories on Verbli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 14 Feb 2025 14:41:15 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://verbli.org/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Content</title>
-      <link>http://localhost:1313/categories/content/</link>
+      <link>https://verbli.org/categories/content/</link>
       <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/content/</guid>
+      <guid>https://verbli.org/categories/content/</guid>
       <description></description>
     </item>
     <item>
       <title>Performance</title>
-      <link>http://localhost:1313/categories/performance/</link>
+      <link>https://verbli.org/categories/performance/</link>
       <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/performance/</guid>
+      <guid>https://verbli.org/categories/performance/</guid>
       <description></description>
     </item>
     <item>
       <title>Deployment</title>
-      <link>http://localhost:1313/categories/deployment/</link>
+      <link>https://verbli.org/categories/deployment/</link>
       <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/deployment/</guid>
+      <guid>https://verbli.org/categories/deployment/</guid>
       <description></description>
     </item>
     <item>
       <title>Development</title>
-      <link>http://localhost:1313/categories/development/</link>
+      <link>https://verbli.org/categories/development/</link>
       <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/development/</guid>
+      <guid>https://verbli.org/categories/development/</guid>
       <description></description>
     </item>
     <item>
       <title>Tutorials</title>
-      <link>http://localhost:1313/categories/tutorials/</link>
+      <link>https://verbli.org/categories/tutorials/</link>
       <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/tutorials/</guid>
+      <guid>https://verbli.org/categories/tutorials/</guid>
       <description></description>
     </item>
   </channel>

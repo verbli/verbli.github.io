@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Development on Verbli</title>
-    <link>http://localhost:1313/categories/development/</link>
+    <link>https://verbli.org/categories/development/</link>
     <description>Recent content in Development on Verbli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 14 Feb 2025 14:41:15 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://verbli.org/categories/development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Customizing Your Hugo Theme: A Deep Dive</title>
-      <link>http://localhost:1313/blog/customizing-your-hugo-theme/</link>
+      <link>https://verbli.org/blog/customizing-your-hugo-theme/</link>
       <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/customizing-your-hugo-theme/</guid>
+      <guid>https://verbli.org/blog/customizing-your-hugo-theme/</guid>
       <description>Table of Contents Introduction Understanding Hugo&amp;rsquo;s Theme Structure Basic Theme Customization 1. Colors and Typography 2. Layout Modifications Advanced Customization Techniques Creating Custom Shortcodes Working with Partials Best Practices Common Customization Examples Custom Homepage Layout Custom Taxonomy Pages Conclusion Further Resources Introduction While Hugo comes with many beautiful themes, you&amp;rsquo;ll often want to customize them to match your specific needs. This guide will walk you through the process of customizing your Hugo theme effectively.</description>
     </item>
   </channel>
