@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jobs on Verbli</title>
+    <link>http://localhost:1313/jobs/</link>
+    <description>Recent content in Jobs on Verbli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Feb 2025 14:41:15 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/jobs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Product Manager</title>
+      <link>http://localhost:1313/jobs/product-manager/</link>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jobs/product-manager/</guid>
+      <description>We&amp;rsquo;re looking for a Product Manager to join our team and help shape the future of our product.&#xA;About the Role As a Product Manager, you&amp;rsquo;ll be responsible for:&#xA;Defining and executing the product strategy and roadmap Working closely with engineering, design, and marketing teams Conducting user research and gathering customer feedback Analyzing market trends and competitive landscape Prioritizing features and managing the product backlog Requirements 4+ years of product management experience in SaaS Strong analytical and problem-solving skills Excellent communication and stakeholder management abilities Experience with agile development methodologies Data-driven decision making mindset Technical background or ability to work closely with technical teams Nice to Have MBA or relevant advanced degree Experience with B2B SaaS products Background in UX design or software development Experience with product analytics tools Public speaking or presentation experience Benefits Competitive salary and equity package Comprehensive health, dental, and vision insurance 401(k) matching Flexible PTO policy Professional development budget Wellness programs Company-sponsored events Office perks and snacks How to Apply Please send your resume and a cover letter detailing your product management experience and why you&amp;rsquo;re interested in joining our team.</description>
+    </item>
+    <item>
+      <title>Senior Frontend Developer</title>
+      <link>http://localhost:1313/jobs/senior-frontend-developer/</link>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/jobs/senior-frontend-developer/</guid>
+      <description>We&amp;rsquo;re looking for a Senior Frontend Developer to join our growing team and help shape the future of our SaaS platform.&#xA;About the Role As a Senior Frontend Developer, you&amp;rsquo;ll be responsible for:&#xA;Building and maintaining high-quality, reusable UI components Collaborating with designers to implement pixel-perfect interfaces Optimizing application performance and accessibility Mentoring junior developers and reviewing code Contributing to technical architecture decisions Requirements 5+ years of experience in frontend development Expert knowledge of modern JavaScript, HTML, and CSS Strong experience with React or Vue.</description>
+    </item>
+  </channel>
+</rss>

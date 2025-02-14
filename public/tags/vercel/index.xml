@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vercel on Verbli</title>
+    <link>http://localhost:1313/tags/vercel/</link>
+    <description>Recent content in Vercel on Verbli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Feb 2025 14:41:15 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/vercel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deploying Hugo Sites: A Complete Guide</title>
+      <link>http://localhost:1313/blog/deploying-hugo-sites/</link>
+      <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/deploying-hugo-sites/</guid>
+      <description>Table of Contents Introduction Popular Deployment Platforms 1. Netlify 2. Vercel 3. GitHub Pages Deployment Best Practices Performance Considerations Security Measures Conclusion Resources Introduction Once you&amp;rsquo;ve built your Hugo site, the next step is deploying it to make it accessible to the world. This guide covers various deployment options and best practices.&#xA;Popular Deployment Platforms 1. Netlify Netlify offers a seamless deployment experience:&#xA;terminal 1 2 3 4 5 6 7 8 # Create netlify.</description>
+    </item>
+  </channel>
+</rss>

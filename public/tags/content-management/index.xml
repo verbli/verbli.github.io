@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Content-Management on Verbli</title>
+    <link>http://localhost:1313/tags/content-management/</link>
+    <description>Recent content in Content-Management on Verbli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Feb 2025 14:41:15 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/content-management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Content Management in Hugo: Best Practices</title>
+      <link>http://localhost:1313/blog/content-management-hugo/</link>
+      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/content-management-hugo/</guid>
+      <description>Table of Contents Introduction Content Organization Directory Structure Front Matter Templates Content Types Page Bundles Taxonomies Content Workflow Draft Management Content Updates Dynamic Content Related Content Content Reuse SEO and Metadata Content Backup Backup Strategies Conclusion Resources Introduction Effective content management is crucial for maintaining a scalable Hugo site. This guide covers best practices for organizing and managing your content.&#xA;Content Organization Directory Structure Create a logical content hierarchy:</description>
+    </item>
+  </channel>
+</rss>
