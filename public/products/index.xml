@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Products on Verbli</title><link>https://verbli.org/products/</link><description>Recent content in Products on Verbli</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://verbli.org/products/index.xml" rel="self" type="application/rss+xml"/><item><title>ChatForge</title><link>https://verbli.org/products/chatforge/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://verbli.org/products/chatforge/</guid><description>&lt;section class="relative overflow-hidden" style="background:linear-gradient(180deg,#ffffff,#00C0C0)">
+ 
+ &lt;div class="container pt-16 pb-20 md:pt-24 md:pb-28">
+ &lt;div class="grid lg:grid-cols-2 gap-12 items-center">
+ &lt;div class="space-y-8">
+ &lt;h1 class="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight">
+ ChatForge
+ &lt;/h1>
+ &lt;p class="text-xl text-gray-600">
+ Join the privacy-conscious users elevating their AI chats with ChatForge, the advanced LLM chat app with a privacy-first architecture.
+ &lt;/p>
+ &lt;div class="flex flex-col sm:flex-row gap-4">
+ 
+ &lt;a href="https://play.google.com/store/apps/details?id=org.verbli.chatforge" class="btn-primary text-center">
+ Get it on Google Play
+ &lt;/a>
+ 
+ 
+ &lt;a href="https://github.com/verbli/chatforge" class="btn-outline text-center">
+ Get the source
+ &lt;/a>
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="relative">
+ 
+ &lt;div class="relative z-10">
+ &lt;img src="https://verbli.org/images/chatforge.svg" alt="Hero Image" class="rounded-xl shadow-elevation">
+ &lt;/div>
+ 
+ 
+ &lt;div class="absolute -top-20 -right-20 w-64 h-64 bg-primary-100 rounded-full filter blur-3xl opacity-50">&lt;/div>
+ &lt;div class="absolute -bottom-20 -left-20 w-64 h-64 bg-secondary-100 rounded-full filter blur-3xl opacity-50">&lt;/div>
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/section>
+
+&lt;section class="border-y border-gray-100 overflow-hidden">
+ &lt;div class="container mx-auto">
+ &lt;div class="py-12">
+ &lt;p class="text-center text-3xl md:text-2xl font-bold mb-6">Connect to Leading AI Providers&lt;/p></description></item></channel></rss>

@@ -27,7 +27,7 @@ paginatePath = "page"
 [params]
   description = ""
   author = "Evan Shipman"
-  logo = "/images/logo.svg"
+  logo = "/images/logo_ring.png"
   # Google Analytics ID (e.g., "G-XXXXXXXXXX")
   # googleAnalytics = "G-XXXXXXXXXX"
   
@@ -52,7 +52,7 @@ paginatePath = "page"
   
   # Footer Configuration
   [params.footer]
-    column_1_title = "Features"
+    column_1_title = "Products"
     column_2_title = "COMPANY"
     column_3_title = "LEGAL"
   
@@ -63,7 +63,7 @@ paginatePath = "page"
     
     # Logo configuration
     [params.header.logo]
-      src = "/images/logo.svg"
+      src = "/images/logo_ring.png"
     
     # Menu configuration
     [params.header.menu]
@@ -85,14 +85,14 @@ paginatePath = "page"
     # Button configuration
     [params.header.buttons]
       # Sign In button
-      [params.header.buttons.signIn]
-        text = "Sign in"
-        url = "/signin"
+      #[params.header.buttons.signIn]
+      #  text = "Sign in"
+      #  url = "/signin"
       
       # Get Started button
-      [params.header.buttons.getStarted]
-        text = "Get Started"
-        url = "/get-started"
+      #[params.header.buttons.getStarted]
+      #  text = "Get Started"
+      #  url = "/get-started"
 
   # Blog configuration
   [params.blog]
@@ -165,18 +165,20 @@ paginatePath = "page"
 # Navigation Menu
 [menu]
   [[menu.main]]
-    name = "Features"
+    name = "Home"
+    weight = 1
+    url = "/"
+  [[menu.main]]
+    name = "Products"
     weight = 1
     [menu.main.params]
       has_submenu = true
       submenu = [
-        { name = "Performance", url = "/features/performance/" },
-        { name = "Design System", url = "/features/design-system/" },
-        { name = "Developer Experience", url = "/features/developer-experience/" }
+        { name = "ChatForge", url = "/products/chatforge/" },
       ]
   [[menu.main]]
-    name = "Pricing"
-    url = "/pricing"
+    name = "Research"
+    url = "/research"
     weight = 2
   #[[menu.main]]
   #  name = "Blog"
@@ -185,26 +187,16 @@ paginatePath = "page"
   [[menu.main]]
     name = "Company"
     weight = 4
+    url = "/company"
     [menu.main.params]
-      has_submenu = true
-      submenu = [
-        { name = "About Us", url = "/company/" },
-        { name = "Careers", url = "/careers/" }
-      ]
+      has_submenu = false
+
 
   # Footer Column 1 Menu
   [[menu.footer_column_1]]
-    name = "Performance"
-    url = "/features/performance/"
+    name = "ChatForge"
+    url = "/products/chatforge/"
     weight = 1
-  [[menu.footer_column_1]]
-    name = "Design System"
-    url = "/features/design-system/"
-    weight = 2
-  [[menu.footer_column_1]]
-    name = "Developer Experience"
-    url = "/features/developer-experience/"
-    weight = 3
 
   # Footer Column 2 Menu
   #[[menu.footer_column_2]]
@@ -215,16 +207,8 @@ paginatePath = "page"
     name = "About Us"
     url = "/company"
     weight = 2
-  [[menu.footer_column_2]]
-    name = "Careers"
-    url = "/careers"
-    weight = 3
 
   # Footer Column 3 Menu
-  [[menu.footer_column_3]]
-    name = "License"
-    url = "/license"
-    weight = 1
   [[menu.footer_column_3]]
     name = "Privacy Policy"
     url = "/privacy"

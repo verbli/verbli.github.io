@@ -2,31 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Features on Verbli</title>
-    <link>https://verbli.org/features/</link>
+    <link>http://localhost:1313/features/</link>
     <description>Recent content in Features on Verbli</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://verbli.org/features/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Beautiful Design System</title>
-      <link>https://verbli.org/features/design-system/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://verbli.org/features/design-system/</guid>
-      <description>Comprehensive Design System Our theme includes a complete design system that makes it easy to create beautiful, consistent interfaces. Built on TailwindCSS, it provides the flexibility to customize every aspect of your design while maintaining a professional look.&#xA;Design Components Core Elements Typography system with perfect vertical rhythm Color palette with semantic variables Spacing and sizing scales Grid and layout systems UI Components Navigation components (headers, footers, menus) Hero sections and feature displays Cards and content containers Forms and input elements Buttons and CTAs Pricing tables Testimonial displays Team member profiles Design Features Customization Easy theme customization through TailwindCSS Brand color management Typography customization Spacing system adjustment Component variants Accessibility WCAG 2.</description>
-    </item>
-    <item>
-      <title>Developer Experience</title>
-      <link>https://verbli.org/features/developer-experience/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://verbli.org/features/developer-experience/</guid>
-      <description>Built for Developers Our theme is designed with developers in mind, providing a clean, efficient workflow that makes building websites enjoyable and productive.&#xA;Development Features Project Structure Logical directory organization Clear separation of concerns Modular component architecture Consistent naming conventions Development Workflow Fast hot reload development server Automatic asset processing Source maps for debugging Build process optimization Component System Shortcodes Rich set of pre-built shortcodes Easy to create custom shortcodes Documentation for each shortcode Example implementations Partials Reusable partial templates Context-aware components Easy to extend and modify Clear documentation Customization Configuration Central configuration file Environment variables support Feature flags Easy theme customization Styling TailwindCSS integration PostCSS processing Custom CSS support Design token system Documentation Getting started guide Component documentation Configuration reference Best practices Troubleshooting guide Deployment instructions Our developer experience focuses on making it easy to build, customize, and maintain your website while following best practices and maintaining clean, efficient code.</description>
-    </item>
-    <item>
-      <title>Lightning-Fast Performance</title>
-      <link>https://verbli.org/features/performance/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://verbli.org/features/performance/</guid>
-      <description>Built for Speed Our theme is engineered from the ground up with performance in mind. By leveraging Hugo&amp;rsquo;s powerful static site generation and combining it with modern optimization techniques, we deliver websites that load instantly and run smoothly.&#xA;Performance Metrics Build Time: Less than 1 second for most sites Page Load Time: Under 500ms first contentful paint Time to Interactive: Under 1.5 seconds Google Lighthouse Score: 95+ on all metrics Optimization Features Asset Optimization Automatic image optimization and WebP conversion CSS minification and purging of unused styles JavaScript bundling and tree-shaking Lazy loading of images and components Caching Strategy Efficient browser caching with proper headers Static asset fingerprinting Pre-rendered HTML for instant loads Service worker for offline capabilities CDN Integration Built for global distribution Edge caching ready Automatic cache invalidation Geographic redundancy Our performance-first approach ensures your website not only looks great but delivers an exceptional user experience through blazing-fast load times and smooth interactions.</description>
-    </item>
+    <atom:link href="http://localhost:1313/features/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
