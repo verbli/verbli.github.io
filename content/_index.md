@@ -28,7 +28,7 @@ client_logos:
 
 {{< hero 
     headline="Intelligence at Your Command"
-    sub_headline="Join the privacy-conscious users elevating their AI chats with ChatForge, the advanced LLM chat app with a privacy-first architecture."
+    sub_headline="Crafting open intelligent solutions, one step at a time."
     primary_button_text="Get it on Google Play"
     primary_button_url="https://play.google.com/store/apps/details?id=org.verbli.chatforge"
     hero_image="/images/hero-dashboard.svg"
