@@ -6,12 +6,12 @@ description: "Learn about our mission, leadership team, and the investors backin
 
 {{< section-container class="bg-gradient-to-b from-blue-50 via-blue-50 to-white pt-20 pb-32" >}}
     <div class="text-center">
-        <h1 class="text-4xl md:text-5xl font-bold mb-6">Building the Future of SaaS</h1>
-        <p class="text-xl text-gray-600 mb-16">We're on a mission to revolutionize how businesses operate in the digital age</p>
+        <h1 class="text-4xl md:text-4xl font-bold mb-6">Advancing AI for a better future</h1>
+        <p class="text-xl text-gray-600 mb-16">We're on a mission to make advanced intelligence accessible and beneficial for all</p>
         <div class="max-w-3xl mx-auto bg-white rounded-xl shadow-sm p-8">
             <h2 class="text-3xl font-bold mb-4">Our Mission</h2>
             <p class="text-xl text-gray-600">
-                We're dedicated to empowering businesses with innovative SaaS solutions that drive growth and efficiency. Our platform combines cutting-edge technology with intuitive design to solve complex business challenges.
+                At Verbli, we create AI-powered products and conduct groundbreaking research to advance human potential. We strive to make intelligence more accessible, ethical, and impactful—shaping a future where technology serves humanity for the better.
             </p>
         </div>
     </div>
@@ -19,38 +19,41 @@ description: "Learn about our mission, leadership team, and the investors backin
 
 {{< section-container class="py-20 bg-gray-50" >}}
     <div class="max-w-6xl mx-auto">
-        <h2 class="text-3xl font-bold text-center mb-12">Leadership Team</h2>
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <h2 class="text-3xl font-bold text-center mb-12">The Team</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
             {{< team-member 
-                name="Sarah Johnson"
-                title="Chief Executive Officer"
-                image="/images/company/exec-1.svg"
-                linkedin="#"
+                name="Evan Shipman"
+                title="Founder & CEO"
+                image="/images/company/me.jpg"
+                linkedin="https://www.linkedin.com/in/evan-s-382024174"
             >}}
-            {{< team-member 
-                name="Michael Chen"
-                title="Chief Technology Officer"
-                image="/images/company/exec-2.svg"
-                linkedin="#"
-            >}}
-            {{< team-member 
-                name="Emily Rodriguez"
-                title="Chief Product Officer"
-                image="/images/company/exec-3.svg"
-                linkedin="#"
-            >}}
-        </div>
-    </div>
-{{< /section-container >}}
-
-{{< section-container class="py-20" >}}
-    <div class="max-w-6xl mx-auto">
-        <h2 class="text-3xl font-bold text-center mb-12">Backed by World-Class Investors</h2>
-        <div class="grid grid-cols-2 md:grid-cols-4 gap-8 items-center">
-            {{< investor-logo name="Sequoia Capital" image="/images/company/investor-1.svg" >}}
-            {{< investor-logo name="Andreessen Horowitz" image="/images/company/investor-2.svg" >}}
-            {{< investor-logo name="Accel" image="/images/company/investor-3.svg" >}}
-            {{< investor-logo name="Benchmark" image="/images/company/investor-4.svg" >}}
+            <div class="text-xl">
+                Professional software engineer and AI enthusiast with a passion for cross-platform development.
+                <br>
+                <br>
+                7 years of experience modernizing legacy and tactical systems for the US Navy.
+                <br>
+                <br>
+                3 years of experience supporting equipment qualification, developing monitoring software, overseeing MIL-STD testing, and implementing corrective measures.
+                <br>
+                <br>
+                Dedicated to creating technology that makes a positive impact on people's lives.
+                <br>
+                <br>
+                Education:
+                <br>
+                <br>
+                <div class="container">
+                    <div class="content">
+                        BS - Computer Science<br>University of Mary Washington - 2019
+                    </div>
+                    <br>
+                    <div class="content">
+                        MS - Computer Science: AI Concentration<br>University of Texas at Austin - 2025
+                    </div>
+                </div>
+                <br>
+            </div>
         </div>
     </div>
 {{< /section-container >}}
@@ -60,31 +63,20 @@ description: "Learn about our mission, leadership team, and the investors backin
         <h2 class="text-3xl font-bold text-center mb-12">Company Values</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             {{< value-card 
-                title="Innovation First"
-                icon="lightbulb"
-                description="We constantly push boundaries and embrace new technologies to solve complex challenges."
-            >}}
-            {{< value-card 
-                title="Customer Success"
-                icon="users"
-                description="Our customers' success is our success. We're committed to delivering exceptional value."
-            >}}
-            {{< value-card 
-                title="Transparency"
+                title="Openness & Transparency"
                 icon="eye"
-                description="We believe in open communication and building trust through transparency."
+                description="We believe in the power of open-source AI, sharing our research and technology to drive innovation and collective progress."
             >}}
-        </div>
-    </div>
-{{< /section-container >}}
-
-{{< section-container class="py-20" >}}
-    <div class="max-w-6xl mx-auto">
-        <div class="grid grid-cols-1 md:grid-cols-4 gap-8 text-center">
-            {{< stat number="2015" label="Founded" >}}
-            {{< stat number="200+" label="Team Members" >}}
-            {{< stat number="10k+" label="Customers" >}}
-            {{< stat number="50M+" label="Annual Revenue" >}}
+            {{< value-card 
+                title="Ethical AI Development"
+                icon="users"
+                description="Our AI solutions prioritize fairness, safety, and responsible deployment to benefit humanity without bias or harm."
+            >}}
+            {{< value-card 
+                title="Innovation & Excellence"
+                icon="lightbulb"
+                description="We push the boundaries of AI research and product development, striving for groundbreaking advancements in intelligence and usability."
+            >}}
         </div>
     </div>
 {{< /section-container >}}

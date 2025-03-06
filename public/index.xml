@@ -2,115 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Verbli</title>
-    <link>https://verbli.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home on Verbli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://verbli.org/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Product Manager</title>
-      <link>https://verbli.org/jobs/product-manager/</link>
-      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://verbli.org/jobs/product-manager/</guid>
-      <description>We&amp;rsquo;re looking for a Product Manager to join our team and help shape the future of our product.&#xA;About the Role As a Product Manager, you&amp;rsquo;ll be responsible for:&#xA;Defining and executing the product strategy and roadmap Working closely with engineering, design, and marketing teams Conducting user research and gathering customer feedback Analyzing market trends and competitive landscape Prioritizing features and managing the product backlog Requirements 4+ years of product management experience in SaaS Strong analytical and problem-solving skills Excellent communication and stakeholder management abilities Experience with agile development methodologies Data-driven decision making mindset Technical background or ability to work closely with technical teams Nice to Have MBA or relevant advanced degree Experience with B2B SaaS products Background in UX design or software development Experience with product analytics tools Public speaking or presentation experience Benefits Competitive salary and equity package Comprehensive health, dental, and vision insurance 401(k) matching Flexible PTO policy Professional development budget Wellness programs Company-sponsored events Office perks and snacks How to Apply Please send your resume and a cover letter detailing your product management experience and why you&amp;rsquo;re interested in joining our team.</description>
-    </item>
-    <item>
-      <title>Senior Frontend Developer</title>
-      <link>https://verbli.org/jobs/senior-frontend-developer/</link>
-      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://verbli.org/jobs/senior-frontend-developer/</guid>
-      <description>We&amp;rsquo;re looking for a Senior Frontend Developer to join our growing team and help shape the future of our SaaS platform.&#xA;About the Role As a Senior Frontend Developer, you&amp;rsquo;ll be responsible for:&#xA;Building and maintaining high-quality, reusable UI components Collaborating with designers to implement pixel-perfect interfaces Optimizing application performance and accessibility Mentoring junior developers and reviewing code Contributing to technical architecture decisions Requirements 5+ years of experience in frontend development Expert knowledge of modern JavaScript, HTML, and CSS Strong experience with React or Vue.</description>
-    </item>
-    <item>
-      <title>Content Management in Hugo: Best Practices</title>
-      <link>https://verbli.org/blog/content-management-hugo/</link>
-      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://verbli.org/blog/content-management-hugo/</guid>
-      <description>Table of Contents Introduction Content Organization Directory Structure Front Matter Templates Content Types Page Bundles Taxonomies Content Workflow Draft Management Content Updates Dynamic Content Related Content Content Reuse SEO and Metadata Content Backup Backup Strategies Conclusion Resources Introduction Effective content management is crucial for maintaining a scalable Hugo site. This guide covers best practices for organizing and managing your content.&#xA;Content Organization Directory Structure Create a logical content hierarchy:</description>
-    </item>
-    <item>
-      <title>Optimizing Hugo Performance: Speed Up Your Site</title>
-      <link>https://verbli.org/blog/optimizing-hugo-performance/</link>
-      <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://verbli.org/blog/optimizing-hugo-performance/</guid>
-      <description>Table of Contents Introduction Asset Optimization Image Optimization CSS and JavaScript Caching Strategies Content Delivery CDN Setup Edge Computing Performance Monitoring Key Metrics Advanced Optimization Techniques Resource Hints Critical CSS SEO Optimization Conclusion Resources Introduction Performance is crucial for user experience and SEO. In this guide, we&amp;rsquo;ll explore various techniques to optimize your Hugo site for maximum performance.&#xA;Asset Optimization Image Optimization Images often contribute the most to page weight.</description>
-    </item>
-    <item>
-      <title>Deploying Hugo Sites: A Complete Guide</title>
-      <link>https://verbli.org/blog/deploying-hugo-sites/</link>
-      <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://verbli.org/blog/deploying-hugo-sites/</guid>
-      <description>Table of Contents Introduction Popular Deployment Platforms 1. Netlify 2. Vercel 3. GitHub Pages Deployment Best Practices Performance Considerations Security Measures Conclusion Resources Introduction Once you&amp;rsquo;ve built your Hugo site, the next step is deploying it to make it accessible to the world. This guide covers various deployment options and best practices.&#xA;Popular Deployment Platforms 1. Netlify Netlify offers a seamless deployment experience:&#xA;terminal 1 2 3 4 5 6 7 8 # Create netlify.</description>
-    </item>
-    <item>
-      <title>Customizing Your Hugo Theme: A Deep Dive</title>
-      <link>https://verbli.org/blog/customizing-your-hugo-theme/</link>
-      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://verbli.org/blog/customizing-your-hugo-theme/</guid>
-      <description>Table of Contents Introduction Understanding Hugo&amp;rsquo;s Theme Structure Basic Theme Customization 1. Colors and Typography 2. Layout Modifications Advanced Customization Techniques Creating Custom Shortcodes Working with Partials Best Practices Common Customization Examples Custom Homepage Layout Custom Taxonomy Pages Conclusion Further Resources Introduction While Hugo comes with many beautiful themes, you&amp;rsquo;ll often want to customize them to match your specific needs. This guide will walk you through the process of customizing your Hugo theme effectively.</description>
-    </item>
-    <item>
-      <title>Getting Started with Hugo: A Beginner&#39;s Guide</title>
-      <link>https://verbli.org/blog/getting-started-with-hugo/</link>
-      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://verbli.org/blog/getting-started-with-hugo/</guid>
-      <description>Table of Contents Introduction Why Choose Hugo? Setting Up Your First Hugo Site Working with Content Advanced Features Code Examples Conclusion Next Steps Introduction Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.&#xA;Why Choose Hugo? Here are some compelling reasons to choose Hugo for your next project:&#xA;Lightning Fast Easy to Learn Highly Flexible Great Community Setting Up Your First Hugo Site Let&amp;rsquo;s walk through creating your first Hugo site:</description>
-    </item>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Our Company</title>
-      <link>https://verbli.org/company/</link>
+      <link>http://localhost:1313/company/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://verbli.org/company/</guid>
-      <description>Building the Future of SaaS We&#39;re on a mission to revolutionize how businesses operate in the digital age&#xA;Our Mission We&#39;re dedicated to empowering businesses with innovative SaaS solutions that drive growth and efficiency. Our platform combines cutting-edge technology with intuitive design to solve complex business challenges. Leadership Team Sarah Johnson Chief Executive Officer&#xA;Michael Chen Chief Technology Officer&#xA;Emily Rodriguez Chief Product Officer&#xA;Backed by World-Class Investors Company Values Innovation First We constantly push boundaries and embrace new technologies to solve complex challenges.</description>
+      <guid>http://localhost:1313/company/</guid>
+      <description>Advancing AI for a better future We&#39;re on a mission to make advanced intelligence accessible and beneficial for all&#xA;Our Mission At Verbli, we create AI-powered products and conduct groundbreaking research to advance human potential. We strive to make intelligence more accessible, ethical, and impactful—shaping a future where technology serves humanity for the better. The Team Evan Shipman Founder &amp;amp; CEO&#xA;Professional software engineer and AI enthusiast with a passion for cross-platform development.</description>
     </item>
     <item>
-      <title>Beautiful Design System</title>
-      <link>https://verbli.org/features/design-system/</link>
+      <title>ChatForge</title>
+      <link>http://localhost:1313/products/chatforge/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://verbli.org/features/design-system/</guid>
-      <description>Comprehensive Design System Our theme includes a complete design system that makes it easy to create beautiful, consistent interfaces. Built on TailwindCSS, it provides the flexibility to customize every aspect of your design while maintaining a professional look.&#xA;Design Components Core Elements Typography system with perfect vertical rhythm Color palette with semantic variables Spacing and sizing scales Grid and layout systems UI Components Navigation components (headers, footers, menus) Hero sections and feature displays Cards and content containers Forms and input elements Buttons and CTAs Pricing tables Testimonial displays Team member profiles Design Features Customization Easy theme customization through TailwindCSS Brand color management Typography customization Spacing system adjustment Component variants Accessibility WCAG 2.</description>
-    </item>
-    <item>
-      <title>Developer Experience</title>
-      <link>https://verbli.org/features/developer-experience/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://verbli.org/features/developer-experience/</guid>
-      <description>Built for Developers Our theme is designed with developers in mind, providing a clean, efficient workflow that makes building websites enjoyable and productive.&#xA;Development Features Project Structure Logical directory organization Clear separation of concerns Modular component architecture Consistent naming conventions Development Workflow Fast hot reload development server Automatic asset processing Source maps for debugging Build process optimization Component System Shortcodes Rich set of pre-built shortcodes Easy to create custom shortcodes Documentation for each shortcode Example implementations Partials Reusable partial templates Context-aware components Easy to extend and modify Clear documentation Customization Configuration Central configuration file Environment variables support Feature flags Easy theme customization Styling TailwindCSS integration PostCSS processing Custom CSS support Design token system Documentation Getting started guide Component documentation Configuration reference Best practices Troubleshooting guide Deployment instructions Our developer experience focuses on making it easy to build, customize, and maintain your website while following best practices and maintaining clean, efficient code.</description>
-    </item>
-    <item>
-      <title>Join Our Team</title>
-      <link>https://verbli.org/careers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://verbli.org/careers/</guid>
-      <description>At Saasify, we believe in empowering our team members to do their best work. We foster an environment of innovation, collaboration, and continuous learning. Our culture is built on trust, transparency, and a shared commitment to excellence.&#xA;We&amp;rsquo;re looking for passionate individuals who want to make a difference and grow with us. If you&amp;rsquo;re excited about building the future of SaaS and working with cutting-edge technology, we&amp;rsquo;d love to hear from you.</description>
-    </item>
-    <item>
-      <title>License</title>
-      <link>https://verbli.org/license/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://verbli.org/license/</guid>
-      <description>MIT License Copyright (c) 2024&#xA;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</description>
-    </item>
-    <item>
-      <title>Lightning-Fast Performance</title>
-      <link>https://verbli.org/features/performance/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://verbli.org/features/performance/</guid>
-      <description>Built for Speed Our theme is engineered from the ground up with performance in mind. By leveraging Hugo&amp;rsquo;s powerful static site generation and combining it with modern optimization techniques, we deliver websites that load instantly and run smoothly.&#xA;Performance Metrics Build Time: Less than 1 second for most sites Page Load Time: Under 500ms first contentful paint Time to Interactive: Under 1.5 seconds Google Lighthouse Score: 95+ on all metrics Optimization Features Asset Optimization Automatic image optimization and WebP conversion CSS minification and purging of unused styles JavaScript bundling and tree-shaking Lazy loading of images and components Caching Strategy Efficient browser caching with proper headers Static asset fingerprinting Pre-rendered HTML for instant loads Service worker for offline capabilities CDN Integration Built for global distribution Edge caching ready Automatic cache invalidation Geographic redundancy Our performance-first approach ensures your website not only looks great but delivers an exceptional user experience through blazing-fast load times and smooth interactions.</description>
-    </item>
-    <item>
-      <title>Pricing</title>
-      <link>https://verbli.org/pricing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://verbli.org/pricing/</guid>
-      <description>Designed for business teams like yours Here at Flowbite we focus on markets where technology, innovation, and capital can unlock long-term value and drive economic growth.&#xA;Starter Best option for personal use &amp;amp; for your next project.&#xA;$29 /month Individual configuration No setup, or hidden fees Team size: 1 developer Premium support: 6 months Free updates: 6 months Get started Popular Company Relevant for multiple users, extended &amp;amp; premium support.</description>
+      <guid>http://localhost:1313/products/chatforge/</guid>
+      <description>ChatForge Join the privacy-conscious users elevating their AI chats with ChatForge, the advanced LLM chat app with a privacy-first architecture. Get it on Google Play Get the source Connect to Leading AI Providers&#xA;Advanced, Private, and Versatile AI Chat Experience secure, local-first data storage, multi-provider AI integrations, and feature-rich conversations - all wrapped in one user-friendly platform.&#xA;Privacy Privacy-First Architecture Conversations stay local on your device, free from data logs.</description>
     </item>
     <item>
       <title>Privacy Policy</title>
-      <link>https://verbli.org/privacy/</link>
+      <link>http://localhost:1313/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://verbli.org/privacy/</guid>
-      <description>Introduction At Saasify, we take your privacy seriously. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our service.&#xA;Information We Collect Personal Information Name and email address Billing information Usage data and analytics Communication preferences Automatically Collected Information IP addresses Browser type Device information Cookies and tracking technologies How We Use Your Information We use the collected information for:&#xA;Service Delivery&#xA;Providing and maintaining our service Updates</description>
+      <guid>http://localhost:1313/privacy/</guid>
+      <description>Introduction Verbli is committed to protecting your privacy. This Privacy Policy explains how we collect, use, store, and handle your data when you use our products and services.&#xA;Information We Collect Personal Information Name and email address Billing information Usage data and analytics Communication preferences Automatically Collected Information IP addresses Browser type Device information Cookies and tracking technologies How We Use Your Information We use the collected information for:&#xA;Service Delivery</description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/</guid>
+      <description> Coming soon! </description>
     </item>
   </channel>
 </rss>

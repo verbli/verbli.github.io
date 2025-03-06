@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-us" class="h-full">
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
@@ -20,7 +20,7 @@
     <meta property="og:title" content="Performance | Verbli">
     <meta property="og:description" content="">
     <meta property="og:type" content="article">
-    <meta property="og:url" content="https://verbli.org/categories/performance/">
+    <meta property="og:url" content="http://localhost:1313/categories/performance/">
     <meta property="og:site_name" content="Verbli">
     
     
@@ -39,7 +39,7 @@
     <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
     
     
-    <link rel="canonical" href="https://verbli.org/categories/performance/">
+    <link rel="canonical" href="http://localhost:1313/categories/performance/">
     
     
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -47,7 +47,10 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@600;700;800&display=swap" rel="stylesheet">
     
     
-    <link rel="stylesheet" href="/css/style.css">
+    
+    
+    
+    <link rel="stylesheet" href="/css/main.css">
 
     
     
@@ -63,9 +66,9 @@
         <div class="container mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl">
             <nav class="flex items-center justify-between h-20">
                 
-                <a href="https://verbli.org/" class="flex items-center space-x-4">
+                <a href="http://localhost:1313/" class="flex items-center space-x-4">
                     
-                        <img src="/images/logo.svg" alt="Verbli" class="h-12">
+                        <img src="/images/logo_ring.png" alt="Verbli" class="h-12">
                     
                     
                         <span class="text-3xl font-semibold text-gray-800">Verbli</span>
@@ -76,9 +79,13 @@
                 <div class="hidden md:flex items-center space-x-8">
                     
                         
+                        <a href="/" class="text-base text-gray-900 hover:text-primary-600 font-bold transition duration-200">Home</a>
+                        
+                    
+                        
                         <div class="relative group">
                             <button class="flex items-center text-base text-gray-900 hover:text-primary-600 font-bold transition duration-200">
-                                Features
+                                Products
                                 <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
                                 </svg>
@@ -86,11 +93,7 @@
                             <div class="absolute left-0 mt-2 w-72 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 ease-in-out">
                                 <div class="py-6 bg-white border border-gray-100 shadow-xl rounded-lg">
                                     
-                                    <a href="/features/performance/" class="block px-8 py-3 text-sm text-gray-700 hover:bg-gray-50">Performance</a>
-                                    
-                                    <a href="/features/design-system/" class="block px-8 py-3 text-sm text-gray-700 hover:bg-gray-50">Design System</a>
-                                    
-                                    <a href="/features/developer-experience/" class="block px-8 py-3 text-sm text-gray-700 hover:bg-gray-50">Developer Experience</a>
+                                    <a href="/products/chatforge/" class="block px-8 py-3 text-sm text-gray-700 hover:bg-gray-50">ChatForge</a>
                                     
                                 </div>
                             </div>
@@ -98,27 +101,11 @@
                         
                     
                         
-                        <a href="/pricing" class="text-base text-gray-900 hover:text-primary-600 font-bold transition duration-200">Pricing</a>
+                        <a href="/research" class="text-base text-gray-900 hover:text-primary-600 font-bold transition duration-200">Research</a>
                         
                     
                         
-                        <div class="relative group">
-                            <button class="flex items-center text-base text-gray-900 hover:text-primary-600 font-bold transition duration-200">
-                                Company
-                                <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
-                                </svg>
-                            </button>
-                            <div class="absolute left-0 mt-2 w-72 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 ease-in-out">
-                                <div class="py-6 bg-white border border-gray-100 shadow-xl rounded-lg">
-                                    
-                                    <a href="/company/" class="block px-8 py-3 text-sm text-gray-700 hover:bg-gray-50">About Us</a>
-                                    
-                                    <a href="/careers/" class="block px-8 py-3 text-sm text-gray-700 hover:bg-gray-50">Careers</a>
-                                    
-                                </div>
-                            </div>
-                        </div>
+                        <a href="/company" class="text-base text-gray-900 hover:text-primary-600 font-bold transition duration-200">Company</a>
                         
                     
                 </div>
@@ -127,15 +114,7 @@
                 
                 <div class="hidden md:flex items-center space-x-4">
                     
-                    <a href="/signin" class="inline-flex items-center justify-center px-6 py-3 rounded-lg font-bold transition duration-200 ease-in-out border-2 border-gray-200 hover:border-primary-600 hover:text-primary-600">
-                        Sign in
-                    </a>
                     
-                    
-                    
-                    <a href="/get-started" class="inline-flex items-center justify-center px-6 py-3 rounded-lg font-bold transition duration-200 ease-in-out bg-primary-600 text-white hover:bg-primary-700 hover:scale-105">
-                        Get Started
-                    </a>
                     
                 </div>
                 
@@ -156,50 +135,33 @@
             <div class="w-full px-6 py-4">
                 
                     
+                    <a href="/" class="block text-xl text-gray-900 hover:text-primary-600 font-bold transition duration-200 py-2">Home</a>
+                    
+                
+                    
                     <div class="py-2">
-                        <div class="text-xl text-gray-900 font-bold mb-2">Features</div>
+                        <div class="text-xl text-gray-900 font-bold mb-2">Products</div>
                         <div class="pl-4">
                             
-                            <a href="/features/performance/" class="block text-gray-700 hover:text-primary-600 py-2">Performance</a>
-                            
-                            <a href="/features/design-system/" class="block text-gray-700 hover:text-primary-600 py-2">Design System</a>
-                            
-                            <a href="/features/developer-experience/" class="block text-gray-700 hover:text-primary-600 py-2">Developer Experience</a>
+                            <a href="/products/chatforge/" class="block text-gray-700 hover:text-primary-600 py-2">ChatForge</a>
                             
                         </div>
                     </div>
                     
                 
                     
-                    <a href="/pricing" class="block text-xl text-gray-900 hover:text-primary-600 font-bold transition duration-200 py-2">Pricing</a>
+                    <a href="/research" class="block text-xl text-gray-900 hover:text-primary-600 font-bold transition duration-200 py-2">Research</a>
                     
                 
                     
-                    <div class="py-2">
-                        <div class="text-xl text-gray-900 font-bold mb-2">Company</div>
-                        <div class="pl-4">
-                            
-                            <a href="/company/" class="block text-gray-700 hover:text-primary-600 py-2">About Us</a>
-                            
-                            <a href="/careers/" class="block text-gray-700 hover:text-primary-600 py-2">Careers</a>
-                            
-                        </div>
-                    </div>
+                    <a href="/company" class="block text-xl text-gray-900 hover:text-primary-600 font-bold transition duration-200 py-2">Company</a>
                     
                 
                 
                 
                 <div class="pt-4 space-y-4">
                     
-                    <a href="/signin" class="block text-center px-6 py-3 rounded-lg font-bold transition duration-200 ease-in-out border-2 border-gray-200 hover:border-primary-600 hover:text-primary-600">
-                        Sign in
-                    </a>
                     
-                    
-                    
-                    <a href="/get-started" class="block text-center px-6 py-3 rounded-lg font-bold transition duration-200 ease-in-out bg-primary-600 text-white hover:bg-primary-700 hover:scale-105">
-                        Get Started
-                    </a>
                     
                 </div>
                 
@@ -341,9 +303,9 @@
             
             <div class="flex-1">
                 <div class="flex items-center space-x-3 mb-4">
-                    <a href="https://verbli.org/" class="inline-block">
+                    <a href="http://localhost:1313/" class="inline-block">
                         
-                            <img src="/images/logo.svg" alt="Verbli" class="h-6">
+                            <img src="/images/logo_ring.png" alt="Verbli" class="h-6">
                         
                     </a>
                     <span class="text-xl font-bold text-gray-900">Verbli</span>
@@ -365,14 +327,10 @@
 
             
             <div class="flex-1">
-                <h3 class="text-sm font-semibold uppercase tracking-wider text-gray-900 mb-4">Features</h3>
+                <h3 class="text-sm font-semibold uppercase tracking-wider text-gray-900 mb-4">Products</h3>
                 <ul class="space-y-2">
                     
-                        <li><a href="/features/performance/" class="text-gray-600 hover:text-primary-600">Performance</a></li>
-                    
-                        <li><a href="/features/design-system/" class="text-gray-600 hover:text-primary-600">Design System</a></li>
-                    
-                        <li><a href="/features/developer-experience/" class="text-gray-600 hover:text-primary-600">Developer Experience</a></li>
+                        <li><a href="/products/chatforge/" class="text-gray-600 hover:text-primary-600">ChatForge</a></li>
                     
                 </ul>
             </div>
@@ -384,8 +342,6 @@
                     
                         <li><a href="/company" class="text-gray-600 hover:text-primary-600">About Us</a></li>
                     
-                        <li><a href="/careers" class="text-gray-600 hover:text-primary-600">Careers</a></li>
-                    
                 </ul>
             </div>
 
@@ -393,8 +349,6 @@
             <div class="flex-1">
                 <h3 class="text-sm font-semibold uppercase tracking-wider text-gray-900 mb-4">LEGAL</h3>
                 <ul class="space-y-2">
-                    
-                        <li><a href="/license" class="text-gray-600 hover:text-primary-600">License</a></li>
                     
                         <li><a href="/privacy" class="text-gray-600 hover:text-primary-600">Privacy Policy</a></li>
                     
